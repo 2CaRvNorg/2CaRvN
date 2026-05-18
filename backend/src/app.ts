@@ -62,6 +62,7 @@ const defaultOrigins = [
   'http://localhost:3000',
   'http://localhost:5173',
   'https://www.2carvn.com',
+  'https://2-ca-rv-n.vercel.app',
   'https://2-ca-rv-n-frontend-imp.vercel.app',
   'https://2-ca-rv-n-frontend-test.vercel.app',
   'https://2-ca-rv-n-frontend-test-5z7584l7q-2carvnorgs-projects.vercel.app', // Current deployment
